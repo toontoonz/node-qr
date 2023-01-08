@@ -1,0 +1,23 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20",
+    "omise": "^0.8.5",
+    "promptpay-qr": "^0.5.0",
+    "qrcode": "^1.5.1"
+  }
+}

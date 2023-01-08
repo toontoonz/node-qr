@@ -1,2 +1,1 @@
 "# node-qr" 
-"# node-qr" 
